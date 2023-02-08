@@ -1,0 +1,21 @@
+/* General styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+section {
+  border: 1px solid black;
+  padding: 20px;
+  width: 300px;
+}
+section input {
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
